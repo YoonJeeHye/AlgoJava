@@ -1,7 +1,8 @@
 package week1_이상원;
 
-import java.util.Arrays;
-
+/*
+https://school.programmers.co.kr/learn/courses/30/lessons/42584
+*/
 public class 주식가격 {
     public static void main(String[] args) {
         int[] prices = {1, 2, 3, 2, 3};

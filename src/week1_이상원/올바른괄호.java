@@ -3,6 +3,9 @@ package week1_이상원;
 import java.util.Objects;
 import java.util.Stack;
 
+/*
+https://school.programmers.co.kr/learn/courses/30/lessons/12909
+*/
 public class 올바른괄호 {
     public static void main(String[] args) {
         String s = "(())()";

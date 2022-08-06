@@ -1,8 +1,10 @@
 package week1_이상원;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
+/*
+https://school.programmers.co.kr/learn/courses/30/lessons/42586
+*/
 public class 기능개발 {
     public static void main(String[] args) {
         int[] progress = {95, 90, 99, 99, 80, 99};
@@ -27,7 +29,7 @@ public class 기능개발 {
             }
         }
         answer.add(cnt);
-        Object [] answer2 = answer.toArray();
+        Object[] answer2 = answer.toArray();
 //        return answer2;
     }
 }

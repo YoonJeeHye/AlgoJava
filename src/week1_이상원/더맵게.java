@@ -1,6 +1,7 @@
 package week1_이상원;
 
 import java.util.ArrayDeque;
+import java.util.Arrays;
 import java.util.Deque;
 import java.util.PriorityQueue;
 
@@ -17,12 +18,22 @@ public class 더맵게 {
         int k = 7;
 
         int cnt = 0;
-        for (int i = 0; i < scoville.length; i++) {
-            if (scoville[i] < k) {
-                int newScoville = scoville[i] + (scoville[i + 1] * 2);
-                scoville[i + 1] = newScoville;
-                cnt++;
+        PriorityQueue<Integer> arr = new PriorityQueue<>();
+        for (int num :
+                scoville) {
+            arr.offer(num);
+        }
+
+        while (arr.peek() <= k) {
+            if (arr.size() == 1) {
+                return;
             }
+            int first = arr.poll();
+            int second = arr.poll();
+
+            int newScoville = first + (second * 2);
+            arr.offer(newScoville);
+            cnt++;
         }
         System.out.println(cnt);
     }

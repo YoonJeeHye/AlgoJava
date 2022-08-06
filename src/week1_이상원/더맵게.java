@@ -17,20 +17,11 @@ public class 더맵게 {
         int k = 7;
 
         int cnt = 0;
-        PriorityQueue<Integer> arr = new PriorityQueue<>();
-        for (int num :
-                scoville) {
-            arr.add(num);
-        }
-
-        while (true) {
-            int first = arr.remove();
-            if (first >= k) {
-                break;
-            } else {
+        for (int i = 0; i < scoville.length; i++) {
+            if (scoville[i] < k) {
+                int newScoville = scoville[i] + (scoville[i + 1] * 2);
+                scoville[i + 1] = newScoville;
                 cnt++;
-                int newScoville = first + (arr.remove() * 2);
-                arr.add(newScoville);
             }
         }
         System.out.println(cnt);

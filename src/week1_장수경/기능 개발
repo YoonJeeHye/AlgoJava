@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.Stack;
+
+class Solution {
+    public ArrayList<Integer> solution(int[] progresses, int[] speeds) { 
+	    	int[] answer;
+	    	int temp,day=0;
+	    	int cur=0;
+	    	Stack<Integer> stack = new Stack<>();//일자까지 배포된 기능 카운트
+	    	ArrayList<Integer> list = new ArrayList<>();//결과 출력을 위한 숫자 넣을 리스트
+	    	
+	    	for (int i = 0; i < progresses.length; i++) {//입력 길이만큼
+	    		temp = progresses[i]+(speeds[i]*day);//현재까지 완료 퍼센트 확인
+	    		if(temp>=100) {//만약 완료된 상태면
+	    			stack.add(i);//stack에 넣어서 갯수 카운트
+	    		}else{//완료가 안된 상태라면
+	    			if(i!=0) {//첫 인덱스가 아닐 경우
+	    				list.add(stack.size());//앞서 완료된 갯수 결과출력용 리스트에 넣고
+			    		stack.clear();//스택 초기화
+	    			}
+		    		if((100-temp)%speeds[i]==0){//만약 배포일자가 작업속도와 딱 떨어지면
+			    		
+		    			day += (int)((100-temp)/speeds[i]);//몫만큼 날짜를 더해주고
+		    			stack.add(i);//스택에 추가
+		    		}else if((100-temp)%speeds[i]!=0){//딱 떨어지지 않으면
+		    			day += (int)((100-temp)/speeds[i])+1;//몫에 하루 추가
+		    			stack.add(i);//스택에 추가
+		    		}
+	    		}//end 완료안된 상태
+
+			}//end 입력 길이
+	        list.add(stack.size());//마지막  완료된 갯수 결과출력용 리스트에 넣고
+	        return list;//리스트 리턴
+	    }
+}

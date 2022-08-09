@@ -1,7 +1,9 @@
+package week1_윤지혜;
+
 import java.util.*;
 
 // 실패 ㅠ
-public class 더맵게 {
+public class PM_더맵게 {
 	
 	public static int solution(int[] scoville, int K) {
         int answer = 0;

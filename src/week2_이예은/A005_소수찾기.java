@@ -18,7 +18,7 @@ public class A005_소수찾기 {
             if (n % i == 0 || n % (i + 2) == 0) 
                 // 2와 3은 다 체크 했기 때문에 6씩 늘어나면서 i와 i+2를 체크한다
                 return false;
-        return true;
+        return true; 
     }
     
     public void permutation(String numbers, int path, int cnt){

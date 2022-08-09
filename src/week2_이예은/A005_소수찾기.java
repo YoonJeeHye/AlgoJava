@@ -32,7 +32,7 @@ public class A005_소수찾기 {
         	
             if(isPrime(path) && !checked[path]) { // 소수인지 이전에 있던 숫자인지 확인한다
             	checked[path] = true;
-            	answer++;
+            	answer++; 
             }
      
             visited[i] = true;

@@ -4,7 +4,7 @@ class A006_카펫 {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         int sum = (brown + 4) / 2; // sum = h + w
-        int h = 3; // 높이 초기값은 3
+        int h = 3; // 높이 초기값은 3 
         int w = sum - h;
         while ( h <= w ){// 가로길이는 세로길이와 같거나 세로길이 보다 길다
             if((h - 2) * (w - 2) == yellow) {

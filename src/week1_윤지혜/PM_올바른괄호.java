@@ -1,6 +1,8 @@
+package week1_윤지혜;
+
 import java.util.Stack;
 
-public class 올바른괄호 {
+public class PM_올바른괄호 {
 	
 	public static boolean solution(String s) {
         boolean answer = true;

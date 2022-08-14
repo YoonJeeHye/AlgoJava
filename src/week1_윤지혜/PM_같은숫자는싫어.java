@@ -1,6 +1,8 @@
+package week1_윤지혜;
+
 import java.util.*;
 
-public class 같은숫자는싫어 {
+public class PM_같은숫자는싫어 {
 
 	    public static int[] solution(int []arr) {
 	        

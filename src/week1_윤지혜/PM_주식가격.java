@@ -1,6 +1,8 @@
+package week1_윤지혜;
+
 import java.util.*;
 
-public class 주식가격 {
+public class PM_주식가격 {
 	
 	public static int[] solution(int[] prices) {
 		

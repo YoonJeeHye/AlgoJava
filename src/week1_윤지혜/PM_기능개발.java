@@ -1,6 +1,8 @@
+package week1_윤지혜;
+
 import java.util.*;
 
-public class 기능개발 {
+public class PM_기능개발 {
 	
 	public static List<Integer> solution(int[] progresses, int[] speeds) {
         

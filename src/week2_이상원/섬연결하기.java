@@ -16,34 +16,23 @@ public class 섬연결하기 {
         for (int i = 0; i < n; i++) {
             cycle[i] = i;
         }
-        int[][] newCost = new int[n][];
-        for (int i = 0; i < n; i++) {
-            if (costs[i].length == 3) {
-                newCost[i] = new int[]{costs[i][0], costs[i][1], costs[i][2]};
-            } else {
-                newCost[i] = new int[]{costs[i][0], costs[i][1], Integer.MAX_VALUE};
-            }
-        }
 
         // 비용 순으로 정렬
-        Arrays.sort(newCost, ((o1, o2) -> o1[2] - o2[2]));
+        Arrays.sort(costs, ((o1, o2) -> o1[2] - o2[2]));
 
-        for (int i = 0; i < newCost.length; i++) {
-            int[] item = newCost[i];
+        for (int i = 0; i < costs.length; i++) {
+            int[] item = costs[i];
 
             // 사이클 테이블 갱신
             int start = item[0]; // source
             int end = item[1]; // dest
             cost = item[2];
-            if (cost != Integer.MAX_VALUE) {
-                int starParent = find(start);
-                int endParent = find(end);
-                if (starParent == endParent) continue;
 
+            // 만약에 부모가 다르면 사이클이 안생기고 cost 를 더해주면서 연결해주면뎀
+            if (find(start) != find(end)) {
                 cnt += cost;
-                cycle[end] = starParent;
-            } // cost
-            else continue;
+                union(start, end);
+            }
         }
         System.out.println(cnt);
 //        return cnt;
@@ -53,4 +42,13 @@ public class 섬연결하기 {
         if (cycle[node] == node) return node;
         return cycle[node] = find(cycle[node]);
     }
+
+    private static void union(int start, int end) {
+        int startParent = find(start);
+        int endParent = find(end);
+
+        if (startParent > endParent) cycle[startParent] = endParent;
+        else cycle[endParent] = startParent;
+    }
 }
+

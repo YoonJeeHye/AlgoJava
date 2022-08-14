@@ -14,7 +14,7 @@ class A008_큰수만들기 {
         // N의 길이중에 N-k길이의 숫자열을 찾아야 하기때문에
         // 시작은 0부터 시작하고 끝은 N-(N-k)로 초기화 한다
         int start = 0;
-        int end = N-(N-k);
+        int end = N-(N-k); 
         
         for(int i = 0; i < N-k; i++) {// 정답에 N-k길이의 숫자열을 저장한다
         	int max = 0;

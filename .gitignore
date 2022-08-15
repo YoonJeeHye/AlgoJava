@@ -1,7 +1,6 @@
 .idea
-.classpath
-.project
 AlgoJavaStudy.iml
 out
 bin
-/.metadata/
+.metadata
+README2.md

@@ -36,8 +36,8 @@ Lead : 이상원
 |   2회차   |    그리디     | LV2 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)         | -        |
 |   2회차   |    그리디     | LV2 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)     | -        |
 |   2회차   |    그리디     | LV3 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)      | 코드리뷰 |
-| **3회차** |    그래프     | LV3 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)     | -        |
-|           |    그래프     | LV3 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)             | -        |
-|           |    BFS/DFS    | LV2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | -        |
-|           |    BFS/DFS    | LV2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  | -        |
-|           |    BFS/DFS    | LV3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)         | 코드리뷰 |
+| **3회차** |    그래프     | LV3 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)     | 상원, 예은        |
+|           |    그래프     | LV3 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)             | 영경, 수경        |
+|           |    BFS/DFS    | LV2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | 종섭, 지혜        |
+|           |    BFS/DFS    | LV2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  | 주연        |
+|           |    BFS/DFS    | LV3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)         | 려환 |

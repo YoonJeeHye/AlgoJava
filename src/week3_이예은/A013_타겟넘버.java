@@ -11,8 +11,8 @@ class A013_타겟넘버 {
         DFS(index+1, sum - numbers[index], numbers, target); // - -> DFS재귀 호출  
     }
     public int solution(int[] numbers, int target) {
-        count = 0;
-        DFS(0, 0, numbers, target);
+		count = 0;
+		DFS(0, 0, numbers, target);
         return count;
     }
 }

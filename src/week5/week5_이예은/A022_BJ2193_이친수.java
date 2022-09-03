@@ -24,6 +24,7 @@ public class A022_BJ2193_이친수 {
 			dp[0] = 1;
 			dp[1] = 1;
 			for(int i = 2; i < N; i++) {
+				//dp[i] = 길이가  i이인 이천수의 경우의 수
 				dp[i] = dp[i-2] + dp[i-1];
 			}
 			result = dp[N-1];

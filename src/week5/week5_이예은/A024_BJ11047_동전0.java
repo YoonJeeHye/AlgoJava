@@ -30,7 +30,7 @@ public class A024_BJ11047_동전0 {
 		for(int i = N-1; i >= 0; i--) {
 			if(total == 0) break;
 			if(total >= coin[i]) {
-				count += total/coin[i];
+				count += total/coin[i]; // 동전을 하나씩 빼지 말고 가장 큰 동전의 경우에서 나눈 나머지를 생각한다
 				total %= coin[i];
 			}
 		}

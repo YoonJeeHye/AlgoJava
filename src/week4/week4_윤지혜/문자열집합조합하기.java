@@ -1,10 +1,10 @@
-package week4_윤지혜;
+package week4.week4_윤지혜;
 
 import java.io.*;
 import java.util.*;
 
 // 안됨
-public class bj_문자열집합조합하기{
+public class 문자열집합조합하기{
 
 	static int k;
 	static String s;

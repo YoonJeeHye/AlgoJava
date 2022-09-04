@@ -1,8 +1,8 @@
-package week4_윤지혜;
+package week4.week4_윤지혜;
 
 import java.util.*;
 
-public class bj_후보추천하기{
+public class 후보추천하기{
 
 	static int N;
 	static ArrayList<Integer> photoFrame;

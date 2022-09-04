@@ -1,4 +1,4 @@
-package week4_윤지혜;
+package week4.week4_윤지혜;
 
 import java.util.ArrayList;
 import java.util.Collections;

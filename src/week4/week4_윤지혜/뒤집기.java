@@ -1,8 +1,7 @@
-package week4_윤지혜;
-
+package week4.week4_윤지혜;
 import java.util.Scanner;
 
-public class bj_뒤집기 {
+public class 뒤집기 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

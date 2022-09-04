@@ -1,10 +1,10 @@
-package week4_윤지혜;
+package week4.week4_윤지혜;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class bj_차이를최대로 {
+public class 차이를최대로 {
 
 	static int N;
 	static int[] nums;

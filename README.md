@@ -51,3 +51,8 @@ Lead : 이상원
 | | DP | 카카오 인턴십 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |상원, 예은 |
 | | 그리디 | 실버4 | [동전 0](https://www.acmicpc.net/problem/11047) | 영경|
 | | 수학 | 실버2 | [폰 호석만](https://www.acmicpc.net/problem/21275) |수경 |
+| **6회차** | 그리디 | 실버3 | [에너지 드링크](https://www.acmicpc.net/problem/20115) | |
+| | 그리디 | 실버3 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | |
+| | dfs/bfs | LV3 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | |
+| | dfs/bfs | LV3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | |
+| | 구현 | 골드5 | [인구 이동](https://www.acmicpc.net/problem/16234) | |

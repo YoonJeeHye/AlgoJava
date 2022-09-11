@@ -27,7 +27,7 @@ public class A026_BJ20115_에너지드링크 {
 		for(int i = 0; i < N-1; i++) {
 			total += nums[i]/2.0;
 		}
-
+		
 		/*---------------출력----------------*/
 		bw.write(total + "");
 		bw.flush();

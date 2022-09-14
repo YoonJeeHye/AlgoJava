@@ -59,4 +59,4 @@ Lead : 이상원
 | **7회차** | 완전탐색 | 실버3 | [퇴사](https://www.acmicpc.net/problem/14501) | |
 | | 그리디 | 골드5 | [행복유치원](https://www.acmicpc.net/problem/13164) | |
 | | 구현 | 실버4 | [빙고](https://www.acmicpc.net/problem/2578) | |
-| | dfs/bfs | 실2 | [유기농 배추](https://www.acmicpc.net/problem/1012) | |
+| | dfs/bfs | 실버2 | [유기농 배추](https://www.acmicpc.net/problem/1012) | |

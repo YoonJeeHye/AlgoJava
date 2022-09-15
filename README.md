@@ -5,11 +5,11 @@
 ## Member
 
 Lead : 이상원
-
+ 
 |   🤸‍♂️   |   💻   |   📖   |   🎧   |
 | :----: | :----: | :----: | :----: |
-| 이상원 | 김영경 | 김종섭 | 양주연 |
-| 안려환 | 이예은 | 장수경 | 윤지혜 |
+| 이상원 | 김영경 | 윤지혜 | 양주연 |
+| 안려환 | 이예은 | 장수경 |  |
 
 ## 스터디 방식(수정 필요)
 
@@ -51,3 +51,12 @@ Lead : 이상원
 | | DP | 카카오 인턴십 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |상원, 예은 |
 | | 그리디 | 실버4 | [동전 0](https://www.acmicpc.net/problem/11047) | 영경|
 | | 수학 | 실버2 | [폰 호석만](https://www.acmicpc.net/problem/21275) |수경 |
+| **6회차** | 그리디 | 실버3 | [에너지 드링크](https://www.acmicpc.net/problem/20115) | 수경, 주연|
+| | 그리디 | 실버3 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | 예은, 주연|
+| | dfs/bfs | LV3 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 영경, 려환|
+| | dfs/bfs | LV3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 지혜, 상원|
+| | 구현 | 골드5 | [인구 이동](https://www.acmicpc.net/problem/16234) | 예은, 상원|
+| **7회차** | 완전탐색 | 실버3 | [퇴사](https://www.acmicpc.net/problem/14501) | |
+| | 그리디 | 골드5 | [행복유치원](https://www.acmicpc.net/problem/13164) | |
+| | 구현 | 실버4 | [빙고](https://www.acmicpc.net/problem/2578) | |
+| | dfs/bfs | 실2 | [유기농 배추](https://www.acmicpc.net/problem/1012) | |

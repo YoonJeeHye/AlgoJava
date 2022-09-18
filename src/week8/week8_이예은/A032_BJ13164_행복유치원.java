@@ -35,7 +35,7 @@ class A032_BJ13164_행복유치원 {
 		
 		int result = 0;
 		for(int i = 0; i < N-K; i++) {
-			result += diff.get(i);
+			result += diff.get(i); 
 		}
 
 		bw.write(result +"");

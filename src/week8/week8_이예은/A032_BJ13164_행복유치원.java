@@ -41,6 +41,5 @@ class A032_BJ13164_행복유치원 {
 		bw.write(result +"");
 		bw.flush();
 		br.close();
-		bw.close();
 	}
 }

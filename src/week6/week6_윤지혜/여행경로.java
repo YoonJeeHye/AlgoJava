@@ -1,4 +1,4 @@
-package week6.week6_윤지혜;
+package week7.week7_윤지혜;
 
 import java.util.*;
 

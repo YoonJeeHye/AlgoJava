@@ -60,8 +60,8 @@ Lead : 이상원
 | | 그리디 | 골드5 | [행복유치원](https://www.acmicpc.net/problem/13164) | 예은, 수경 |
 | | 구현 | 실버4 | [빙고](https://www.acmicpc.net/problem/2578) | 려환, 영경 |
 | | dfs/bfs | 실버2 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 주연, 지혜 |
-| **8회차** | 수학 | 골드5 | [순열의 순서](https://www.acmicpc.net/problem/1722) | |
-| | 구현 | 골드1 | [구슬탈출2](https://www.acmicpc.net/problem/13460) | |
-| | 그리디 | 실버5 | [국회의원선거](https://www.acmicpc.net/problem/1417) | |
-| | 구현 | 실버3 | [킹](https://www.acmicpc.net/problem/1063) | |
-| | 구현 | 실버2 | [지구온난화](https://www.acmicpc.net/problem/5212) | |
+| **8회차** | 수학 | 골드5 | [순열의 순서](https://www.acmicpc.net/problem/1722) | 주연, 예은|
+| | 구현 | 골드1 | [구슬탈출2](https://www.acmicpc.net/problem/13460) | 상원, 지혜 |
+| | 그리디 | 실버5 | [국회의원선거](https://www.acmicpc.net/problem/1417) | 려환, 영경 |
+| | 구현 | 실버3 | [킹](https://www.acmicpc.net/problem/1063) | 수경, 려환 |
+| | 구현 | 실버2 | [지구온난화](https://www.acmicpc.net/problem/5212) | 지혜, 영경 |

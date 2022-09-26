@@ -65,3 +65,8 @@ Lead : 이상원
 | | 그리디 | 실버5 | [국회의원선거](https://www.acmicpc.net/problem/1417) | 려환, 영경 |
 | | 구현 | 실버3 | [킹](https://www.acmicpc.net/problem/1063) | 수경, 려환 |
 | | 구현 | 실버2 | [지구온난화](https://www.acmicpc.net/problem/5212) | 지혜, 영경 |
+| **9회차** | 그리디 | 실버2 | [주식](https://www.acmicpc.net/problem/11501) | |
+| | 구현+큐 | 실버3 | [프린터큐](https://www.acmicpc.net/problem/1966) | |
+| | 구현 | 골드5 | [컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | |
+| | bfs/dfs | 실버1 | [전쟁-전투](https://www.acmicpc.net/problem/1303) | |
+| | 문자열 | 골드5 | [회문](https://www.acmicpc.net/problem/17609) | |

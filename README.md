@@ -70,3 +70,6 @@ Lead : 이상원
 | | 구현 | 골드5 | [컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | |
 | | bfs/dfs | 실버1 | [전쟁-전투](https://www.acmicpc.net/problem/1303) | |
 | | 문자열 | 골드5 | [회문](https://www.acmicpc.net/problem/17609) | |
+|**10회차**|문자열|실버1|[추월](https://www.acmicpc.net/problem/2002)||
+| |bfs/dfs|실버1|[양치기 꿍](https://www.acmicpc.net/problem/3187)||
+| |그리디|골드3|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)||

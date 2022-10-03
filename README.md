@@ -8,8 +8,8 @@ Lead : 이상원
  
 |   🤸‍♂️   |   💻   |   📖   |   🎧   |
 | :----: | :----: | :----: | :----: |
-| 이상원 | 김영경 | 윤지혜 | 양주연 |
-| 안려환 | 이예은 | 장수경 |  |
+| 이상원 | 김영경 | 윤지혜 |  |
+| 안려환 | 이예은 | 양주연 |  |
 
 ## 스터디 방식(수정 필요)
 
@@ -65,8 +65,11 @@ Lead : 이상원
 | | 그리디 | 실버5 | [국회의원선거](https://www.acmicpc.net/problem/1417) | 려환, 영경 |
 | | 구현 | 실버3 | [킹](https://www.acmicpc.net/problem/1063) | 수경, 려환 |
 | | 구현 | 실버2 | [지구온난화](https://www.acmicpc.net/problem/5212) | 지혜, 영경 |
-| **9회차** | 그리디 | 실버2 | [주식](https://www.acmicpc.net/problem/11501) | |
-| | 구현+큐 | 실버3 | [프린터큐](https://www.acmicpc.net/problem/1966) | |
-| | 구현 | 골드5 | [컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | |
-| | bfs/dfs | 실버1 | [전쟁-전투](https://www.acmicpc.net/problem/1303) | |
-| | 문자열 | 골드5 | [회문](https://www.acmicpc.net/problem/17609) | |
+| **9회차** | 그리디 | 실버2 | [주식](https://www.acmicpc.net/problem/11501) |상원|
+| | 구현+큐 | 실버3 | [프린터큐](https://www.acmicpc.net/problem/1966) | 예은, 지혜 |
+| | 구현 | 골드5 | [컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 영경 |
+| | bfs/dfs | 실버1 | [전쟁-전투](https://www.acmicpc.net/problem/1303) | 주연 |
+| | 문자열 | 골드5 | [회문](https://www.acmicpc.net/problem/17609) | 려환 |
+|**10회차**|문자열|실버1|[추월](https://www.acmicpc.net/problem/2002)||
+| |bfs/dfs|실버1|[양치기 꿍](https://www.acmicpc.net/problem/3187)||
+| |그리디|골드3|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)||

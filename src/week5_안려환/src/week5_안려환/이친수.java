@@ -14,22 +14,22 @@ public class 이친수 {
 		System.out.println(result);
 
 	}
-	private static long fibo(int N) {
-		if (N <= 1) {
-			return N;
-		} else {
-			return fibo(N - 1) + fibo(N - 2);
-		}
-	}
-	
-//	private static long dpFibo(int N) {
-//		if(N <= 1) {  // 문제가 조건이 1부터이다.
+//	private static long fibo(int N) {
+//		if (N <= 1) {
 //			return N;
-//		}else if(arr[N] != 0) {
-//			return arr[N];
-//		}else {
-//			return arr[N] = dpFibo(N-1) + dpFibo(N-2);
+//		} else {
+//			return fibo(N - 1) + fibo(N - 2);
 //		}
 //	}
+	
+	private static long dpFibo(int N) {
+		if(N <= 1) {
+			return N;
+		}else if(arr[N] != 0) {
+			return arr[N];
+		}else {
+			return arr[N] = dpFibo(N-1) + dpFibo(N-2);
+		}
+	}
 
 }

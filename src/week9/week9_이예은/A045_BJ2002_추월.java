@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.HashMap;
 
-class A040_BJ2002_추월 {
+class A045_BJ2002_추월 {
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

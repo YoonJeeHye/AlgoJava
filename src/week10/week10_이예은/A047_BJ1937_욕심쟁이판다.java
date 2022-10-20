@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-class A042_BJ1937_욕심쟁이판다 {
+class A047_BJ1937_욕심쟁이판다 {
 	static int N;
 	static int max;
 	static int[][] map;

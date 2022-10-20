@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-class A041_BJ3187_양치기꿍 {
+class A046_BJ3187_양치기꿍 {
 	static int R, C; 
 	static int K, V; // 양의 수, 늑대의 수
 	static class Pos {

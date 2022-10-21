@@ -76,3 +76,7 @@ Lead : 이상원
 |**11회차**|구현|골드5|[빗물](https://www.acmicpc.net/problem/14719)||
 | |bfs/dfs|실버1|[봄버맨](https://www.acmicpc.net/problem/16918)||
 | |완전탐색|골드4|[가르침](https://www.acmicpc.net/problem/1062)||
+|**12회차**|구현|골드4|[puyo puyo](https://www.acmicpc.net/problem/11559)||
+| |백트래킹|골드3|[소문난 칠공주](https://www.acmicpc.net/problem/1941)||
+| |구현 | 골드4 | [카드 섞기](https://www.acmicpc.net/problem/1091) | |
+| | 구현 | 실버3 | [미로 만들기](https://www.acmicpc.net/problem/1347) | |

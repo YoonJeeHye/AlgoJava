@@ -73,6 +73,10 @@ Lead : 이상원
 |**10회차**|문자열|실버1|[추월](https://www.acmicpc.net/problem/2002)|영경, 주연|
 | |bfs/dfs|실버1|[양치기 꿍](https://www.acmicpc.net/problem/3187)|려환, 지혜|
 | |그리디|골드3|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|상원, 예은|
-|**11회차**|구현|골드5|[빗물](https://www.acmicpc.net/problem/14719)||
-| |bfs/dfs|실버1|[봄버맨](https://www.acmicpc.net/problem/16918)||
-| |완전탐색|골드4|[가르침](https://www.acmicpc.net/problem/1062)||
+|**11회차**|구현|골드5|[빗물](https://www.acmicpc.net/problem/14719)|지혜, 상원|
+| |bfs/dfs|실버1|[봄버맨](https://www.acmicpc.net/problem/16918)|주연, 영경|
+| |완전탐색|골드4|[가르침](https://www.acmicpc.net/problem/1062)|예은, 려환|
+|**12회차**|구현|골드4|[puyo puyo](https://www.acmicpc.net/problem/11559)||
+| |백트래킹|골드3|[소문난 칠공주](https://www.acmicpc.net/problem/1941)||
+| |구현 | 골드4 | [카드 섞기](https://www.acmicpc.net/problem/1091) | |
+| | 구현 | 실버3 | [미로 만들기](https://www.acmicpc.net/problem/1347) | |
